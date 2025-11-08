@@ -7,9 +7,10 @@ This project combines Python (Jupyter Notebook) for data cleaning and explorator
 ## 🧰 Tools & Technologies
 Python | Pandas | Matplotlib | Power BI | Power Query | DAX | Excel/CSV  
 
+
 ## 📈 Dashboard Preview
 <p align="center">
-  <img src="https://github.com/tannusingh05/Dominos_Pizza_Sales_Analysis_PowerBI_Python/blob/main/Dominos_Pizza_Sales_Analysis_PowerBI_Python/Powerbi_dashboard/Snapshort_Domino's%20Pizza%20sales.jpg" width="900" alt="Domino’s Power BI Dashboard">
+  <img src="https://github.com/tannusingh05/Dominos_Pizza_Sales_Analysis_PowerBI_Python/blob/main/Snapshort_Domino's%20Pizza%20sales.jpg" width="900" alt="Domino’s Power BI Dashboard">
 </p>
 
 ## 🎯 Key Insights
